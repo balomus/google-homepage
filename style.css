@@ -1,0 +1,41 @@
+html{
+    font-family: Arial;
+    font-size: 13px;
+}
+
+p{
+    
+}
+
+.center{
+    text-align: center;
+    padding-top: 5%;
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #F2F2F2;
+    padding-top: 1em;
+    width: 100%;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
